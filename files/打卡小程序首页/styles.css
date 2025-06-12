@@ -1,0 +1,41 @@
+﻿body {
+  margin:0px;
+  background-color:rgba(249, 249, 249, 1);
+  background-image:url('../../images/小程序首页/iphone_u226.png');
+  background-position:center center;
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-size:451px 909px;
+  background-origin:border-box;
+  position:relative;
+  left:-230px;
+  width:375px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+.form_sketch {
+  border-color:transparent;
+  background-color:transparent;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u234 {
+  border-width:0px;
+  position:absolute;
+  left:230px;
+  top:122px;
+  width:375px;
+  height:667px;
+}
+#u234_input {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:667px;
+  overflow:hidden;
+}
